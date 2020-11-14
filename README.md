@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Victor Greco - [linkedin-shield](https://www.linkedin.com/in/victor-greco/) - victorgreco263@gmail.com
+Victor Greco - [linkedin](https://www.linkedin.com/in/victor-greco/) - victorgreco263@gmail.com
 
 Project Link: [https://github.com/victorgreco/repo_name](https://github.com/victorgreco/repo_name)
 
